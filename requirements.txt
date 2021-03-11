@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pandas
+sklearn
+seaborn
+jupyter
+jupyter_contrib_nbextensions   #https://medium.com/somosfit/version-control-on-jupyter-notebooks-6b67a0cf12a3
